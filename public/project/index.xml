@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Wilmar Lopez-Barrios</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Intonation variation in Palenquero-Spanish bilinguals</title>
+      <link>/project/internal-project2/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project2/</guid>
+      <description>&lt;p&gt;Creole languages emerge as a means of communication among people who do not share a common language and are formed by the lexicon of the dominant language and the structure of the non-dominant language. In the case of Palenquero, it was formed by the Spanish lexicon (i.e. from the dominant language) and the structure of Kikongo, the African substrate language (i.e. the non-dominant language) originally spoken by the first African slaves brought to Colombia.&lt;/p&gt;
+&lt;p&gt;The people from Palenque have suffered great poverty due to the difficult social conditions associated with violence and unemployment in Colombia. In addition to this, they have also suffered linguistic discrimination for speaking their language. This had highly constrained the use of Palenquero to the extent that this is now considered a ‘threatened’ or ‘in trouble’ language. According to ethnologue.com, this status is defined as when ‘intergenerational transmission is in the process of being broken, but the child-bearing generation can still use the language so it is possible that revitalization efforts could restore transmission of the language in the home’.&lt;/p&gt;
+&lt;p&gt;The intonation of creole languages is quite understudied, perhaps because of the challenges of studying creole languages themselves, or because of the difficulties around collecting intonation data within this complex context. Despite this, the psycholinguistic study of Palenquero intonation offers an excellent opportunity not only to understand the social and linguistic factors related to the use of intonation for creole languages, but also to contribute with the revitalization program of Palenquero.&lt;/p&gt;
+&lt;p&gt;The specific aim of this fieldwork is the collection of Palenquero-Spanish utterances to investigate the linkage of Palenquero intonation with Caribbean Spanish and Kikongo based on contact and variation analyses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dialectal trends in Future Subjunctive Decline</title>
+      <link>/project/internal-project3/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project3/</guid>
+      <description>&lt;p&gt;Future subjunctive (FS) in Spanish declined from the 14th century, yet it is not clear whether this disappeared uniformly or at a different pace in the Americas. Speakers from Caribbean regions were considered more conservative, while legal documents from Puerto Rico, Mexico, Ecuador, Venezuela and Chile demonstrated that the decline might have been uniform specially over the 18th century. This project performs a spatial autocorrelation analysis in northwest and southwest Colombia to better understand whether FS decline took place uniformly in relative clauses and conditional protases in the two areas. Frequencies were obtained from legal documents dictated between the 16th and 19th centuries, and from Twitter early in the 21st century. Despite that Caribbean locations (northwest) had more tabulations, results showed that spatial distributions do not exhibit divergent patterns between northwest and southwest Colombia. FS was more required in northwest Colombia due to intense socioeconomic activities, while southwest Colombia gained importance later after the 17th century with the extraction of minerals.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dialectology | Wilmar Lopez-Barrios</title>
+    <link>/tag/dialectology/</link>
+      <atom:link href="/tag/dialectology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dialectology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dialectology</title>
+      <link>/tag/dialectology/</link>
+    </image>
+    
+    <item>
+      <title>Dialectal trends in Future Subjunctive Decline</title>
+      <link>/project/internal-project3/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project3/</guid>
+      <description>&lt;p&gt;Future subjunctive (FS) in Spanish declined from the 14th century, yet it is not clear whether this disappeared uniformly or at a different pace in the Americas. Speakers from Caribbean regions were considered more conservative, while legal documents from Puerto Rico, Mexico, Ecuador, Venezuela and Chile demonstrated that the decline might have been uniform specially over the 18th century. This project performs a spatial autocorrelation analysis in northwest and southwest Colombia to better understand whether FS decline took place uniformly in relative clauses and conditional protases in the two areas. Frequencies were obtained from legal documents dictated between the 16th and 19th centuries, and from Twitter early in the 21st century. Despite that Caribbean locations (northwest) had more tabulations, results showed that spatial distributions do not exhibit divergent patterns between northwest and southwest Colombia. FS was more required in northwest Colombia due to intense socioeconomic activities, while southwest Colombia gained importance later after the 17th century with the extraction of minerals.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
