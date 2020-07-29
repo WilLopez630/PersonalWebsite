@@ -10,7 +10,7 @@ weight = 15  # Order that this section will appear.
 
 #title = "Demos"
 title = ""
-subtitle = "**Welcome to my personal website...**"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -53,8 +53,11 @@ subtitle = "**Welcome to my personal website...**"
 
 +++
 
+
+**<p style="color:white;font-size:30px;">Welcome to my personal website</p>**
+
 <!--
-**This is some of my #dataviz!!!**
+**WELCOME TO MY PERSONAL WEBSITE!!!**
 -->
 
 <!--
